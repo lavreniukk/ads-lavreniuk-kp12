@@ -1,0 +1,7 @@
+D:\КПІ\ads_lab01\ads_lab01_2\ads_lab01_2\obj\Debug\ads_lab01_2.csprojAssemblyReference.cache
+D:\КПІ\ads_lab01\ads_lab01_2\ads_lab01_2\obj\Debug\ads_lab01_2.csproj.CoreCompileInputs.cache
+D:\КПІ\ads_lab01\ads_lab01_2\ads_lab01_2\bin\Debug\ads_lab01_2.exe.config
+D:\КПІ\ads_lab01\ads_lab01_2\ads_lab01_2\bin\Debug\ads_lab01_2.exe
+D:\КПІ\ads_lab01\ads_lab01_2\ads_lab01_2\bin\Debug\ads_lab01_2.pdb
+D:\КПІ\ads_lab01\ads_lab01_2\ads_lab01_2\obj\Debug\ads_lab01_2.exe
+D:\КПІ\ads_lab01\ads_lab01_2\ads_lab01_2\obj\Debug\ads_lab01_2.pdb
