@@ -1,0 +1,7 @@
+D:\projects\ads-lavreniuk-kp12\lab2\ads_task1\ads_task1\bin\Debug\ads_task1.exe.config
+D:\projects\ads-lavreniuk-kp12\lab2\ads_task1\ads_task1\bin\Debug\ads_task1.exe
+D:\projects\ads-lavreniuk-kp12\lab2\ads_task1\ads_task1\bin\Debug\ads_task1.pdb
+D:\projects\ads-lavreniuk-kp12\lab2\ads_task1\ads_task1\obj\Debug\ads_task1.csprojAssemblyReference.cache
+D:\projects\ads-lavreniuk-kp12\lab2\ads_task1\ads_task1\obj\Debug\ads_task1.csproj.CoreCompileInputs.cache
+D:\projects\ads-lavreniuk-kp12\lab2\ads_task1\ads_task1\obj\Debug\ads_task1.exe
+D:\projects\ads-lavreniuk-kp12\lab2\ads_task1\ads_task1\obj\Debug\ads_task1.pdb
