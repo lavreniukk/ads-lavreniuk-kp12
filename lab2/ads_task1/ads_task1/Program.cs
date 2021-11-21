@@ -18,7 +18,7 @@ class Program
         int[,] matrix = new int[N, M];
         List<int> spiral = new List<int>();
 
-        Write(" Оберіть спосіб генерації матриці: 1 - псевдовипадково, 2 - контрольний приклад  ");
+        Write(" Оберіть спосіб генерації матриці: 1 - псевдовипадково, 2 - контрольний приклад ");
         int answer = Convert.ToInt32(ReadLine());
         switch (answer)
         {
