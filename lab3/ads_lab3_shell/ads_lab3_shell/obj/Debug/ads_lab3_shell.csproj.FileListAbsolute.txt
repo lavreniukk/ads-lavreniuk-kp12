@@ -1,0 +1,10 @@
+D:\projects\ads-lavreniuk-kp12\lab3\ads_lab3_shell\ads_lab3_shell\bin\Debug\ads_lab3_shell.exe.config
+D:\projects\ads-lavreniuk-kp12\lab3\ads_lab3_shell\ads_lab3_shell\bin\Debug\ads_lab3_shell.exe
+D:\projects\ads-lavreniuk-kp12\lab3\ads_lab3_shell\ads_lab3_shell\bin\Debug\ads_lab3_shell.pdb
+D:\projects\ads-lavreniuk-kp12\lab3\ads_lab3_shell\ads_lab3_shell\obj\Debug\ads_lab3_shell.csprojAssemblyReference.cache
+D:\projects\ads-lavreniuk-kp12\lab3\ads_lab3_shell\ads_lab3_shell\obj\Debug\ads_lab3_shell.csproj.CoreCompileInputs.cache
+D:\projects\ads-lavreniuk-kp12\lab3\ads_lab3_shell\ads_lab3_shell\obj\Debug\ads_lab3_shell.exe
+D:\projects\ads-lavreniuk-kp12\lab3\ads_lab3_shell\ads_lab3_shell\obj\Debug\ads_lab3_shell.pdb
+D:\projects\ads-lavreniuk-kp12\lab3\ads_lab3_shell\ads_lab3_shell\bin\Debug\System.ValueTuple.dll
+D:\projects\ads-lavreniuk-kp12\lab3\ads_lab3_shell\ads_lab3_shell\bin\Debug\System.ValueTuple.xml
+D:\projects\ads-lavreniuk-kp12\lab3\ads_lab3_shell\ads_lab3_shell\obj\Debug\ads_lab3_shell.csproj.CopyComplete
