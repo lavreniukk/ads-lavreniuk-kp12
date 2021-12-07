@@ -10,8 +10,8 @@ namespace ads_lab3_shell
         static void Main(string[] args)
         {
             OutputEncoding = System.Text.Encoding.UTF8;
-            int N;
             WriteLine("Сортування Шелла");
+            int N;
             Write("Виберіть розмір послідовності: "); N = Convert.ToInt32(ReadLine());
             int[] arr = new int[N];         //створюємо два масиви, один з яких відсортуємо
             int[] arrChange = new int[N];
