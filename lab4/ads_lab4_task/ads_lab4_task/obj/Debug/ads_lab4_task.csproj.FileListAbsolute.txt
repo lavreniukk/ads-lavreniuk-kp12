@@ -1,0 +1,7 @@
+D:\projects\ads-lavreniuk-kp12\lab4\ads_lab4_task\ads_lab4_task\bin\Debug\ads_lab4_task.exe.config
+D:\projects\ads-lavreniuk-kp12\lab4\ads_lab4_task\ads_lab4_task\bin\Debug\ads_lab4_task.exe
+D:\projects\ads-lavreniuk-kp12\lab4\ads_lab4_task\ads_lab4_task\bin\Debug\ads_lab4_task.pdb
+D:\projects\ads-lavreniuk-kp12\lab4\ads_lab4_task\ads_lab4_task\obj\Debug\ads_lab4_task.csprojAssemblyReference.cache
+D:\projects\ads-lavreniuk-kp12\lab4\ads_lab4_task\ads_lab4_task\obj\Debug\ads_lab4_task.csproj.CoreCompileInputs.cache
+D:\projects\ads-lavreniuk-kp12\lab4\ads_lab4_task\ads_lab4_task\obj\Debug\ads_lab4_task.exe
+D:\projects\ads-lavreniuk-kp12\lab4\ads_lab4_task\ads_lab4_task\obj\Debug\ads_lab4_task.pdb
