@@ -1,0 +1,7 @@
+D:\projects\ads-lavreniuk-kp12\lab7\lab7\bin\Debug\lab7.exe.config
+D:\projects\ads-lavreniuk-kp12\lab7\lab7\bin\Debug\lab7.exe
+D:\projects\ads-lavreniuk-kp12\lab7\lab7\bin\Debug\lab7.pdb
+D:\projects\ads-lavreniuk-kp12\lab7\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+D:\projects\ads-lavreniuk-kp12\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+D:\projects\ads-lavreniuk-kp12\lab7\lab7\obj\Debug\lab7.exe
+D:\projects\ads-lavreniuk-kp12\lab7\lab7\obj\Debug\lab7.pdb
